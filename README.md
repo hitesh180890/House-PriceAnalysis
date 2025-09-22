@@ -1,2 +1,2 @@
 # House-PriceAnalysis
-The goal is to provide a reliable model that can estimate house prices effectively, assisting buyers, sellers, and real estate professionals in making informed decisions through data-driven insights. This end-to-end workflow illustrates how data analysis combined with machine learning techniques can be applied in real estate price prediction.
+The project performs data preprocessing, including encoding categorical variables and creating new features like house age and renovation weight. Visualizations such as histograms and correlation plots are used to uncover patterns and relationships among features. Multiple regression models are built and evaluated to accurately predict house prices based on the available features.
